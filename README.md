@@ -9,7 +9,6 @@
 <a href="https://www.youtube.com/channel/UCia7Ye8ljB7vkDfCKN4Mibw"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>
 <a href="https://www.instagram.com/dgoband54uwu/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
 </div>
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dgoband54.Dgoband54&"  />
