@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Diego Banda from Ecuador <br><br>- <br>- 📚 I'm currently learning Software Development in PUCE <br></p>
+<p align="left">I'm Diego Banda from Ecuador <br><br><br>- 📚 I'm currently learning Software Development in PUCE <br></p>
 
 ###
 
